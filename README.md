@@ -3,9 +3,6 @@
 ECE Undergraduate | VLSI Frontend Aspirant | Embedded Systems | Signal Processing & AI Enthusiast
 </h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=vamshi671&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
