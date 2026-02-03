@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Vamshi&fontSize=70&fontColor=ffffff&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&text=Krishna%20Vamshi&fontColor=ffffff&fontSize=70"/>
+
 
 <!-- TYPING -->
 <img src="https://readme-typing-svg.herokuapp.com?color=8BE9FD&center=true&vCenter=true&width=750&lines=ECE+Undergraduate;VLSI+Frontend+Enthusiast;Full+Stack+Developer+in+Progress;Learning+Advanced+Verilog" />
@@ -106,7 +107,7 @@ while (alive) {
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Verilog-8B0000?style=for-the-badge"/>
 </p>
 
