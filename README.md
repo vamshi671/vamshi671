@@ -25,7 +25,9 @@
 
 ## 👨‍💻 About Me
 
-```js
+| 💻 | |
+|---|---|
+| ```js
 const vamshi = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
@@ -48,14 +50,7 @@ while (alive) {
   debug();
   repeat();
 }
+``` | <p align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
+</p> |
 ```
----
-
-## 👨‍💻 What I Do
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
-</p>
-
----
-
