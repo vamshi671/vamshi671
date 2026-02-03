@@ -59,13 +59,53 @@ while (alive) {
 }
 ```
 </td> <td width="40%" align="center"> <img src="assets/coding.gif" width="420"/> </td> </tr> </table> <!-- ================= RED DIVIDER ================= --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<img src="assets/tech.gif" width="28"/> Tech Arsenal
-<p align="center">
-🎨 Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<!-- ================= RED DIVIDER ================= -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br><br>
-⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/> </p> <!-- ================= RED DIVIDER ================= --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-📊 GitHub Statistics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vamshi671&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi671&theme=tokyonight&hide_border=true&background=0D1117"/> </p> <p align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi671&bg_color=0D1117&color=8BE9FD&line=FF6B6B&point=FFFFFF&area=true&hide_border=true"/> </p> <!-- ================= SNAKE ================= --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vamshi671/vamshi671/output/github-snake-dark.svg" /> <img src="https://raw.githubusercontent.com/vamshi671/vamshi671/output/github-snake.svg" /> </picture> </p> 
+## <img src="assets/tech.gif" width="28"/> Tech Arsenal
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
+
+</td>
+</tr>
+🗄️ Database & DevOps
+<p align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> </p>
+
+<tr>
+<td colspan="2" align="center">
+🔧 EDA & VLSI Tools
+<p align="center"> <img src="https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge"/> <img src="https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge"/> </p> </td> </tr> </table> <!-- ================= RED DIVIDER ================= --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+### 💻 Languages
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
