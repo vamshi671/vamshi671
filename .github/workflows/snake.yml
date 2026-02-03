@@ -5,26 +5,21 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: vamshi671
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
 
-      - name: Commit snake files
-        uses: EndBug/add-and-commit@v9
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          message: "Generate contribution snake"
-          add: "output"
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
