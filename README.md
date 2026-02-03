@@ -25,9 +25,11 @@
 
 ## 👨‍💻 About Me
 
-| 💻 | |
-|---|---|
-| ```js
+<table>
+<tr>
+<td width="60%">
+
+<pre><code class="language-js">
 const vamshi = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
@@ -50,7 +52,13 @@ while (alive) {
   debug();
   repeat();
 }
-``` | <p align="center">
+</code></pre>
+
+</td>
+<td width="40%" align="center">
+
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
-</p> |
-```
+
+</td>
+</tr>
+</table>
