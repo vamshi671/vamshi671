@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1c1c1c&text=Krishna%20Vamshi&fontColor=ffffff&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&text=Krishna%20Vamshi&fontColor=ffffff&fontSize=70"/>
+
 
 
 <!-- TYPING -->
