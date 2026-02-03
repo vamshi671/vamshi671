@@ -1,97 +1,50 @@
-<h1 align="center">Hi 👋, I'm Krishna Vamshi</h1>
-<h3 align="center">
-ECE Undergraduate | VLSI Frontend Aspirant | Embedded Systems | Signal Processing & AI Enthusiast
-</h3>
+<!-- ===================== HEADER ===================== -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Krishna%20Vamshi&fontSize=55&fontColor=ffffff&fontAlignY=38)
 
-
----
-
-## 👨‍🎓 About Me
-
-- 🎓 **B.E. Electronics & Communication Engineering**  
-  RV Institute of Technology and Management  
--  Career focus on **VLSI Frontend Design**
--  Strong interest in **Embedded Systems, Signal Processing, and AI/ML**
--  Passionate about building **real-world, hardware-oriented projects**
-- Aspiring to work in **semiconductor, embedded, or AI-driven hardware roles**
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,git,github,linux,matlab,opencv,tensorflow,pytorch" />
+<!-- ===================== TYPING EFFECT ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8BE9FD&center=true&vCenter=true&lines=ECE+Undergraduate;VLSI+Frontend+Enthusiast;Full+Stack+Developer+in+Progress;Learning+Advanced+Verilog" />
 </p>
 
 ---
 
-##  Core Areas
-
-- VLSI Frontend (RTL Design, Verilog, FSMs, Timing Basics)  
-- Digital Electronics & Logic Design  
-- Signal Processing (Audio & Biomedical)  
-- Embedded Systems (Raspberry Pi)  
-- Computer Vision & Machine Learning  
-
----
-
-## 📌 Projects
-
-###  Car Speed Estimation using Computer Vision
-
-**Description:**  
-A computer vision–based system to estimate vehicle speed from video streams for intelligent traffic monitoring applications.
-
-**Key Features:**
-- Vehicle detection and tracking from video frames  
-- Speed estimation using frame-to-frame displacement  
-- Camera calibration for real-world distance measurement  
-- Supports multiple vehicles in a single frame  
-- Implemented using Python and OpenCV  
-
-**Technologies Used:**  
-`Python · OpenCV · Computer Vision · Object Tracking · Geometry`
-
-**Applications:**  
-Traffic surveillance, speed violation detection, smart transportation systems
-
----
-
-###  Sleep Apnea Detection using Breathing Sounds (Raspberry Pi)
-
-**Description:**  
-A real-time healthcare monitoring system to detect sleep apnea events using breathing sound analysis deployed on a Raspberry Pi.
-
-**Key Features:**
-- Audio acquisition using a microphone sensor  
-- Noise reduction and signal preprocessing  
-- Feature extraction from breathing sounds (MFCC, spectral features)  
-- Machine learning–based apnea event classification  
-- Real-time edge deployment on Raspberry Pi  
-
-**Technologies Used:**  
-`Python · Signal Processing · Audio Analysis · Machine Learning · Raspberry Pi`
-
-**Applications:**  
-Home healthcare monitoring, sleep disorder screening, edge AI in healthcare
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:krishnavamshikunda16@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
+<!-- ===================== SOCIAL LINKS ===================== -->
+<p align="center">
+  <a href="https://github.com/vamshi671">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1F1F1F?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
+```js
+const vamshi = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  education: "B.E. Electronics & Communication Engineering",
+  interests: [
+    "VLSI Frontend Design",
+    "AI / Machine Learning",
+    "Full Stack Development"
+  ],
+  currentlyLearning: [
+    "Full Stack Development (MERN)",
+    "Advanced Verilog"
+  ],
+  motto: "Build. Break. Learn. Repeat."
+};
 
----
-
-⭐ Feel free to explore my repositories and projects!
+while (alive) {
+  eat();
+  code();
+  debug();
+  repeat();
+}
