@@ -21,14 +21,13 @@
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="./assets/coding.gif" width="420"/>
 
-<pre><code>
+```js
 const vamshi = {
   pronouns: "He/Him",
   location: "India 🇮🇳",
@@ -51,15 +50,8 @@ while (alive) {
   debug();
   repeat();
 }
-</code></pre>
-
-</td>
-
-<td width="40%" align="center">
-  <img src="./assets/coding.gif" width="420" />
-</td>
-</tr>
-</table>
+```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 ---
