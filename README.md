@@ -1,15 +1,8 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api
-?type=waving
-&color=0:1a2a6c,50:b21f1f,100:fdbb2d
-&height=220
-&section=header
-&text=Krishna%20Vamshi
-&fontSize=70
-&fontColor=ffffff
-&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&text=Krishna%20Vamshi&fontColor=ffffff&fontSize=70"/>
+
 
 
 
